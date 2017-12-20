@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "cfidemo",
+  "short_name": "cfidemo",
+  "version": "org.oraclejet.cfidemo",
+  "description": "An Oracle JavaScript Extension Toolkit (JET) mobile app",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
